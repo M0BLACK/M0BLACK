@@ -1,6 +1,7 @@
- <a src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
- <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
- </a>
+ <a href="#" />
+<img  width ="1200" height="700" src= "https://media4.giphy.com/media/l0ExlTPcZqobpseyY/giphy.gif?cid=ecf05e47mfhih8vxbkd6pfini43wkvhbllmyysnr8wuiqqrn&rid=giphy.mp4&ct=g">
+</a>
+ 
 <h1 align="left">Hi 👋, I'm Makhloufi Bilal</h1>
 <h3 align="left">A junior software developer from Morocco</h3> </br>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/bmakhlou" alt="bmakhlou's 42 stats" /></a>
@@ -10,6 +11,7 @@
 - 💬 Ask me about **JS HTML CSS SASS**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
