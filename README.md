@@ -1,10 +1,10 @@
- <a href="#" />
+<!--  <a href="#" />
 <img  width ="1200" height="700" src= "https://media4.giphy.com/media/l0ExlTPcZqobpseyY/giphy.gif?cid=ecf05e47mfhih8vxbkd6pfini43wkvhbllmyysnr8wuiqqrn&rid=giphy.mp4&ct=g">
 </a>
- 
+  -->
 <h1 align="left">Hi 👋, I'm Makhloufi Bilal</h1>
 <h3 align="left">A junior software developer from Morocco</h3> </br>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/bmakhlou" alt="bmakhlou's 42 stats" /></a>
+<a align="center"  href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/bmakhlou" alt="bmakhlou's 42 stats" /></a>
 
 - 🌱 I’m currently learning **react, Mongoldb**
 
