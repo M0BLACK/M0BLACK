@@ -6,9 +6,7 @@
 <h3 align="left">A junior software developer from Morocco</h3> </br>
 <a align="center"  href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/bmakhlou" alt="bmakhlou's 42 stats" /></a>
 
-- 🌱 I’m currently learning **react, Mongoldb**
-
-- 💬 Ask me about **JS HTML CSS SASS**
+- 💬 Ask me about **JS HTML CSS SASS React**
 
 <h3 align="left">Connect with me:</h3>
 
